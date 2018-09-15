@@ -9,3 +9,6 @@ function myFunction() {
   $("#doge-image").append(`<img class="img-circle" src="images/wowdoge.jpeg" />`);
 }
 
+function sendMessage(){
+  alert("You clicked on the button");
+}
